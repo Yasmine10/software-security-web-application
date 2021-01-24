@@ -4,6 +4,8 @@ The application uses Auth0 for authentication and authorization, all the users a
 
 At the bottom of each page you can find the privacy policy of the website.
 
+url for the web app: https://yasminedewolf.com/
+
 ## Project setup
 
 Use `npm` to install the project dependencies:
